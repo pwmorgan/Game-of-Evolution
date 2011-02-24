@@ -1,0 +1,1 @@
+The Game of Evolution is a turn-based virtual life simulator.  It consists of three phases: a consume phase where higher level creatures eat lower ones, a spawn phase where everything reproduces, and a death phase where the older generation dies, making room for the next generation.
